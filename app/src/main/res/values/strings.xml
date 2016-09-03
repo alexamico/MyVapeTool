@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyVapeTool</string>
+    <string name="current">Current</string>
+    <string name="voltage">Voltage</string>
+    <string name="resistance">Resistance</string>
+    <string name="power">Power</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="resistanceSimbol">Ω</string>
+    <string name="voltageSimbol">V</string>
+    <string name="currentSimbol">A</string>
+    <string name="powerSimbol">W</string>
+    <string name="warning">Insert at least two values</string>
+</resources>

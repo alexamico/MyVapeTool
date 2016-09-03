@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyVapeTool</string>
+    <string name="calculate">Calcola</string>
+    <string name="current">Corrente</string>
+    <string name="power">Potenza</string>
+    <string name="reset">Pulisci</string>
+    <string name="resistance">Resistenza</string>
+    <string name="voltage">Voltaggio</string>
+    <string name="warning">Inserisci almeno due valori</string>
+</resources>
